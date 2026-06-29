@@ -1,4 +1,4 @@
 {
-  "latestVersion": "1.0.0",
-  "expiredMessage": "You're using an outdated version, please contact us via discord"
+  "latestVersion": "1.1.0",
+  "expiredMessage": "You're using an outdated version or your HTTP is turned off, if this is a mistake please contact us via discord"
 }
